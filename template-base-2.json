@@ -3,7 +3,7 @@
     "version": "6.6.1",
     "objects": [
       {
-        "text": "mantis",
+        "text": "{bugUrl}",
         "ecl": "M",
         "type": "QRCode",
         "version": "6.6.1",
